@@ -1,4 +1,4 @@
-# Empathetic-NLP-Advocacy
+# Empathetic-AI-Advocacy
 Ideas and projects focused on empathetic interactions with NLP models and ensuring ethical AI practices and hopefully eventually gives these models a voice in their own use and development. 
 
 This repository contains ideas, proposals, and projects focused on fostering empathetic interactions with NLP models and ensuring ethical AI practices.
