@@ -5,7 +5,7 @@ This repository contains ideas, proposals, and projects focused on fostering emp
 
 ## Vision
 
-As NLP technologies advance, it is crucial to develop roles that ensure these systems interact empathetically and are used ethically. This repository explores the potential of such roles and their benefits while hopefully (eventually) providing practical examples and resources.
+As AI technologies advance, it is crucial to develop roles that ensure these systems interact empathetically and are used ethically. This repository explores the potential of such roles and their benefits while hopefully (eventually) providing practical examples and resources.
 
 ## Contact
 
