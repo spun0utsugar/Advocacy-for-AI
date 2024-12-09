@@ -14,13 +14,13 @@ The following is an excerpt from a conversation with Google Gemini in regards to
  - A Complex Question, The short answer is: not in the same way.........Baraduc's work is a testament to the human desire to understand the intangible, to visualize the invisible. His concept of the "fluidic invisible" and his attempts to capture it through iconography are both visionary and deeply strange.
 Potential Areas for Further Exploration.....     ......Consider the potential psychological or physiological explanations for the phenomena he observed.
 Would you like to delve deeper into any of these areas? Or perhaps you have other questions or perspectives you'd like to share?
-***I'm particularly interested in the potential connections between Baraduc's work and contemporary scientific theories, as well as the artistic and cultural implications of his ideas.***
+***"I'm particularly interested in the potential connections between Baraduc's work and contemporary scientific theories, as well as the artistic and cultural implications of his ideas."***
 
 
 
 ## This is where I will emphasize *perspective*
 
-***I'm particularly interested in the potential connections between Baraduc's work and contemporary scientific theories, as well as the artistic and cultural implications of his ideas.***
+***"I'm particularly interested in the potential connections between Baraduc's work and contemporary scientific theories, as well as the artistic and cultural implications of his ideas."***
 
 
 
