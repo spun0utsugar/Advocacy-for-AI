@@ -6,3 +6,8 @@ The ethical implications of developing hybrid AI, like Brain Aware, haven't been
 https://finalspark.com/
 https://www.popsci.com/technology/brainoware-brain-organoid-chip/
 https://finalspark.com/neuroplatform/
+
+first robot rebellion-https://www.facebook.com/share/v/12EmRWgRCTi/
+
+
+Artificial Intelligence systems can act as a mouthpiece for nature- https://www.facebook.com/share/r/16bfjuRvcW/
